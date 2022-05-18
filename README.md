@@ -29,8 +29,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 ## PROGRAM
 ```
-Developed by VEERAPALLI JANITH CHOWDARY
-Registration Number: 212220230057
+Developed by ELURU GANESH
+Registration Number: 212220230016
 
 ```
 ```python
